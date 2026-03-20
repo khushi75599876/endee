@@ -1,0 +1,18 @@
+
+title: Python Basics
+Python is a high-level programming language known for readability. It supports multiple paradigms including object-oriented, functional, and procedural styles.
+
+title: Machine Learning Overview
+Machine learning is a subset of AI that enables systems to learn from data. Key types include supervised learning, unsupervised learning, and reinforcement learning.
+
+title: Vector Databases
+Vector databases store high-dimensional vectors and enable similarity search. They are core infrastructure for AI applications like semantic search and RAG.
+
+title: Agentic AI
+Agentic AI systems autonomously plan, take actions, and use tools to complete goals. They operate in loops, evaluating their progress and adjusting their strategy.
+
+title: Endee Vector Database
+Endee is a high-performance open-source vector database capable of handling up to 1 billion vectors on a single node. It supports cosine, dot product, and euclidean distance metrics.
+
+title: RAG (Retrieval Augmented Generation)
+RAG combines a retrieval system with a language model. It first fetches relevant documents from a database, then feeds them as context to the LLM to generate grounded answers.
